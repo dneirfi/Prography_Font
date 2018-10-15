@@ -1,3 +1,6 @@
+주어진 템플릿에 제시된 글자 100자를 쓰고 스캔하면 ACGAN 모델을 이용하여 2350자 혹은 그 이상의 나머지 글자들을 자신의 글씨체로 만들어준다.
+
+
 # Prography_Font
 font labels
 0 - NanumGothic (SOURCE)
