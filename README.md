@@ -1,4 +1,4 @@
-## font labels
+## Training font labels
 0 - NanumGothic (SOURCE)
 
 1 - SecretDiary
