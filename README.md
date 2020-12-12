@@ -53,7 +53,7 @@
 ***experiment layout***
 
     experiment/
-└── data
+    └── data
     ├── train.obj
     └── val.obj
 
